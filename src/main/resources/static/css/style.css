@@ -1,0 +1,13 @@
+body{
+	background-color: #f8f8f8;
+}
+
+.panel-title{
+	font-family:"Verdana", sans-serif; 
+}
+
+.form-inline{
+	margin: 10px;
+	padding: 10px;
+}
+
